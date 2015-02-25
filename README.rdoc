@@ -15,5 +15,5 @@ first time startup run bundle install in your command line interface, afterwards
 
  in case you get any errors google them and try to fix them yourself.
  Make sure to have Rubygems version 2.2.2 and Ruby version 2.13 installed, otherwise it won't work.
- Having sql and MySQL2 installed is a pré if you want to change your data in your databases.
- for more information about installing i've previously told please check google.
+ Having sql and sqlite3 installed is a requirement if you want a database connection.
+ for more information about installing on the things i've previously told. please check google.
