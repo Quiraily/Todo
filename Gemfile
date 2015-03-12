@@ -44,6 +44,9 @@ group :development, :test do
 
   #adding rspec
   gem 'rspec-rails', '~> 2.0'
+
+  #adding GUI because i'm lazy and confuzzled ;w;
+  gem 'rails_admin', '~> 0.6.6'
 end
 
 group :test do
